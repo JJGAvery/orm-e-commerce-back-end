@@ -3,7 +3,7 @@
 
 # Link to deployed application
 - GitHub Repo - https://github.com/JJGAvery/orm-e-commerce-back-end
-- Video - 
+- Video - https://watch.screencastify.com/v/nBqQXRaklAqAWi48XkGd
 
 # Description
 In this project you will use express, sequelize, and mysql to create a database for an e-commerce website. You will be able to create, read, update, and delete data from the database.
